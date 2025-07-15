@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#dice {
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    cursor: pointer;
+    user-select: none;
+    transition: transform .3s;
+    /* background-color: rgb(80,1,120); */
+    background-color: #3B82F6;
+    color: #FFFFFF;
+}
+#dice:active {
+    transform: rotate(360deg);
+}
