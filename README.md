@@ -1,4 +1,4 @@
-🎲 Dice Roller Web App
+#🎲 Dice Roller Web App
 
 A simple and interactive dice roller web application built with HTML, CSS, and JavaScript. Click on the dice to roll and generate a random number between 1 and 6, simulating a real dice roll!
 
