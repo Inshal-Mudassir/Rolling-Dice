@@ -1,4 +1,5 @@
 🎲 Dice Roller Web App
+
 A simple and interactive dice roller web application built with HTML, CSS, and JavaScript. Click on the dice to roll and generate a random number between 1 and 6, simulating a real dice roll!
 
 🚀 Features
@@ -27,6 +28,7 @@ The emoji 🎲 is replaced with the number, giving the effect of a dice roll.
 Includes a rotating animation effect when clicked.
 
 📁 Project Structure
+
 📦 Dice-Roller
 ├── index.html
 ├── style.css
