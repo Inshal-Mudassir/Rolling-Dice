@@ -30,8 +30,11 @@ Includes a rotating animation effect when clicked.
 📁 Project Structure
 
 📦 Dice-Roller
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 🎯 Demo
