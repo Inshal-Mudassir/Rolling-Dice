@@ -2,32 +2,32 @@
 
 A simple and interactive dice roller web application built with HTML, CSS, and JavaScript. Click on the dice to roll and generate a random number between 1 and 6, simulating a real dice roll!
 
-🚀 Features
-🎲 Clean and centered UI
+### 🚀 Features
+- 🎲 Clean and centered UI
 
-⚡ Smooth animation on dice click
+- ⚡ Smooth animation on dice click
 
-🎨 Custom styling with CSS
+- 🎨 Custom styling with CSS
 
-📱 Responsive design
+- 📱 Responsive design
 
-🛠 Technologies Used
-HTML5
+### 🛠 Technologies Used
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript (Vanilla)
+- JavaScript (Vanilla)
 
-💡 How It Works
-The dice is displayed in the center of the screen.
+### 💡 How It Works
+**1.** The dice is displayed in the center of the screen.
 
-When clicked, a random number between 1 and 6 is generated.
+**2.** When clicked, a random number between 1 and 6 is generated.
 
-The emoji 🎲 is replaced with the number, giving the effect of a dice roll.
+**3.** The emoji 🎲 is replaced with the number, giving the effect of a dice roll.
 
-Includes a rotating animation effect when clicked.
+**4.** Includes a rotating animation effect when clicked.
 
-📁 Project Structure
+### 📁 Project Structure
 
 📦 Dice-Roller
 
@@ -37,12 +37,12 @@ Includes a rotating animation effect when clicked.
 
 └── script.js
 
-🎯 Demo
+### 🎯 Demo
 Just open index.html in any browser and click the dice to roll!
 
-📌 Future Improvements
-Add dice face images for a more realistic look
+### 📌 Future Improvements
+- Add dice face images for a more realistic look
 
-Add rolling sound effects
+- Add rolling sound effects
 
-Include multiple dice
+- Include multiple dice
